@@ -1,5 +1,10 @@
 **English** · [Русский](README.ru.md)
 
+> **Moved.** These examples are now the `examples/` directory of
+> [`evgkch/machjs`](https://github.com/evgkch/machjs/tree/master/examples), history and all.
+> They are published from there at [evgkch.github.io/machjs](https://evgkch.github.io/machjs/).
+> This repository is archived and is not updated.
+
 # machjs — examples
 
 Examples for [`@evgkch/machjs`](https://github.com/evgkch/machjs), a small typed Mealy state machine. Each one is a working page built on the published package: plain HTML and TypeScript, no framework. Every example comes with a walkthrough of the same code, line by line.

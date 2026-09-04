@@ -1,5 +1,10 @@
 [English](README.md) · **Русский**
 
+> **Переехало.** Примеры лежат в каталоге `examples/` репозитория
+> [`evgkch/machjs`](https://github.com/evgkch/machjs/tree/master/examples) вместе со своей историей.
+> Оттуда они и публикуются: [evgkch.github.io/machjs](https://evgkch.github.io/machjs/).
+> Этот репозиторий заархивирован и не обновляется.
+
 # machjs — примеры
 
 Примеры к [`@evgkch/machjs`](https://github.com/evgkch/machjs), небольшому типизированному автомату Мили. Каждый пример — работающая страница на опубликованном пакете: чистый HTML и TypeScript, без фреймворков. К каждому приложен разбор того же кода, строка за строкой.
